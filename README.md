@@ -29,4 +29,4 @@ Next, from the project folder, install the dependencies:
 
 ### Start the Server
 
-    npm run staet
+    npm run start
