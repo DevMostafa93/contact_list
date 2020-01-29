@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "5e30db1bf86d8a23ec1f07d6",
+    "authorization": "mmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssss1",
+    "deviceToken": "sssskljklmmmjdfhjdlkjfldsjkcfposdcik5ds4dfcd1",
+    "fingerPrint": "123456789",
+    "name": "userA"
+},
+{
+  "_id": "5e30db1bf86d8a23ec1f07d7",
+  "authorization": "mmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssss2",
+  "deviceToken": "sssskljklmmmjdfhjdlkjfldsjkcfposdcik5ds4dfcd2",
+  "fingerPrint": "987654321",
+  "name": "userB"
+}
+]
